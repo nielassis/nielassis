@@ -1,3 +1,7 @@
+
+<div align="center"> 
+ <img src="https://images3.alphacoders.com/874/874252.jpg" />
+</div>
 <div align="center"> 
   <a href="mailto:nielvitorba@gmai.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
