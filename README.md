@@ -1,10 +1,10 @@
 
 <div align="center"> 
-<h2>👨‍💻 Sobre mim</h2>
+<h1>👨‍💻 Sobre mim</h1>
 
-<h1>Sou um entusiasta de tecnologia, apaixonado por resolver problemas. Estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades. Adoro colaborar em projetos de código aberto e contribuir para a comunidade de desenvolvimento. 
+<h2>Sou um entusiasta de tecnologia, apaixonado por resolver problemas. Estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades. Adoro colaborar em projetos de código aberto e contribuir para a comunidade de desenvolvimento. 
 Seja bem-vindo ao meu perfil do GitHub, onde você encontrará projetos que refletem minha curiosidade e dedicação ao desenvolvimento de software.
-</h1>
+</h2>
  <img src="https://images3.alphacoders.com/874/874252.jpg" />
 </div>
 
