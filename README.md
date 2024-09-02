@@ -2,18 +2,18 @@
  <img src="https://images3.alphacoders.com/874/874252.jpg" />
 </div>
 
-<h3 align="center"> 🌐 Um pouco sobre mim. </h3>
+<h1 align="center"> 🌐 Um pouco sobre mim. </h1>
 
-Sou um entusiasta de tecnologia, apaixonado por resolver problemas. Estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades. Adoro colaborar em projetos de código aberto e contribuir para a comunidade de desenvolvimento. Seja bem-vindo ao meu perfil do GitHub, onde você encontrará projetos que refletem minha curiosidade e dedicação ao desenvolvimento de software.
-
- 
-
-
-
+<h4>Sou um entusiasta de tecnologia, apaixonado por resolver problemas. Estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades. Adoro colaborar em projetos de código aberto e contribuir para a comunidade de desenvolvimento. Seja bem-vindo ao meu perfil do GitHub, onde você encontrará projetos que refletem minha curiosidade e dedicação ao desenvolvimento de software.</h4>
 
  
+
+
+
+
  
-<h2 align="center">⚒️ Linguagens | Frameworks | Ferramentas ⚒️</h2>
+ 
+<h1 align="center">⚒️ Linguagens | Frameworks | Ferramentas ⚒️</h1>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=javascript,vuejs,html,css,vscode,github,figma,tailwind,git" />
