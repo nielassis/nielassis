@@ -46,5 +46,3 @@
 ---
 
 </div>
-
-<img src="https://www.kindpng.com/picc/m/236-2365279_kon-photo-asset03-bleach-kon-wallpaper-hd-hd.png">
