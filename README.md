@@ -1,8 +1,15 @@
 
 <div align="center"> 
+ ## 👨‍💻 Sobre mim
+
+Sou um entusiasta de tecnologia, apaixonado por resolver problemas. Estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades. Adoro colaborar em projetos de código aberto e contribuir para a comunidade de desenvolvimento. 
+Seja bem-vindo ao meu perfil do GitHub, onde você encontrará projetos que refletem minha curiosidade e dedicação ao desenvolvimento de software.
+
  <img src="https://images3.alphacoders.com/874/874252.jpg" />
 </div>
+
 <div align="center"> 
+ <h1>Conecte-se comigo!</h1>
   <a href="mailto:nielvitorba@gmai.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
