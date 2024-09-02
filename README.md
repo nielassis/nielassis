@@ -9,6 +9,20 @@ Sou um entusiasta de tecnologia, apaixonado por resolver problemas. Estou sempre
  
 
 
+
+
+ 
+ 
+<h2 align="center">⚒️ Linguagens | Frameworks | Ferramentas ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=javascript,vuejs,html,css,vscode,github,figma,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,typescript,express,c,nextjs,mysql,flask" /><br>
+</div>
+
+<br/>
+<hr/>
+
 <div align="center"> 
  <h1>Conecte-se comigo!</h1>
   <a href="mailto:nielvitorba@gmai.com">
@@ -21,17 +35,6 @@ Sou um entusiasta de tecnologia, apaixonado por resolver problemas. Estou sempre
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
-
- <hr/>
- 
-<h2 align="center">⚒️ Linguagens | Frameworks | Ferramentas ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,vuejs,html,css,vscode,github,figma,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,typescript,express,c,nextjs,mysql,flask" /><br>
-</div>
-
-<br/>
 <hr/>
 <div align="center">
     
