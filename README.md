@@ -46,3 +46,7 @@
 ---
 
 </div>
+
+<div align="right">
+ <img src="https://static.wikia.nocookie.net/all-worlds-alliance/images/f/f9/75cdd01890cec27b3b1e862a73a64a50.png/revision/latest/scale-to-width-down/479?cb=20200504070203">
+</div>
