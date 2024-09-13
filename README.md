@@ -17,7 +17,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=javascript,vuejs,html,css,vscode,github,figma,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,typescript,express,c,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,java,angular,springboot,typescript,express,c,nextjs,mysql,flask" /><br>
 </div>
 
 <br/>
