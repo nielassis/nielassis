@@ -16,8 +16,8 @@
 <h1 align="center">⚒️ Linguagens | Frameworks | Ferramentas ⚒️</h1>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,angular,spring,javascript,ts,nodejs,express,php,postgres,docker,git,vscode" />
-    <img src="https://skillicons.dev/icons?i=nextjs,vuejs,react,vite,tailwind,html,css" /><br>
+    <img src="https://skillicons.dev/icons?i=java,angular,spring,javascript,ts,nodejs,express,php" />
+    <img src="https://skillicons.dev/icons?i=nextjs,vuejs,react,vite,tailwind,postgres,docker,git,vscode,html,css" /><br>
 </div>
 
 <br/>
