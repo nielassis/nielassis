@@ -27,7 +27,7 @@
 <div align="center"> 
  <h1>Conecte-se comigo!</h1>
    <a href="https://wa.link/osr8cz">
-   <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=fff&style=flat" target="_blank" /> 
+   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" /> 
   </a>
   <a href="mailto:nielvitorba@gmai.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
