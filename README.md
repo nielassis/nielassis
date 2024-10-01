@@ -26,6 +26,9 @@
 
 <div align="center"> 
  <h1>Conecte-se comigo!</h1>
+   <a href="https://wa.link/osr8cz">
+   <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=fff&style=flat" target="_blank" /> 
+  </a>
   <a href="mailto:nielvitorba@gmai.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
@@ -34,9 +37,6 @@
   </a>
   <a href="https://nielassis.github.io" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-  <a href="https://wa.link/osr8cz">
-   <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=fff&style=flat" target="_blank" /> 
   </a>
 </div>
 
