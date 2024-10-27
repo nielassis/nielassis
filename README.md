@@ -6,8 +6,8 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=javascript,ts,nodejs" />
-    <img src="https://skillicons.dev/icons?i=nextjs,vuejs,react,vite" />
-    <img src="https://skillicons.dev/icons?i=postgres,docker,git,vscode" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,vite" />
+    <img src="https://skillicons.dev/icons?i=docker" />
 </div>
 
 <br/>
