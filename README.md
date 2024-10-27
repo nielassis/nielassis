@@ -1,7 +1,3 @@
-<div align="center">
- <img src="dandadan-turbo-granny-cat-and-pet-kitten-walking-dandadan-turbo-granny-walking-with-pet-kitten.gif"/>
-</div>
-
 <h1 align="center"> 🌐 A little about me.</h1>
 
 <h4>I'm a technology enthusiast, passionate about solving problems. I am always looking to learn new technologies and improve my skills. I love collaborating on open source projects and contributing to the development community. Welcome to my GitHub profile, where you'll find projects that reflect my curiosity and dedication to software development.</h4>
@@ -49,4 +45,6 @@
   </table>
 </div>
 
-
+<div align="right">
+ <img src="dandadan-turbo-granny-cat-and-pet-kitten-walking-dandadan-turbo-granny-walking-with-pet-kitten.gif"/>
+</div>
