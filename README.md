@@ -1,5 +1,5 @@
 <div align="center">
- <img src="https://tenor.com/pt-BR/view/dandadan-turbo-granny-cat-and-pet-kitten-walking-dandadan-turbo-granny-walking-with-pet-kitten-dandadan-maneki-neko-turbo-granny-dandadan-dandadan-anime-gif-6486645270300003400"/>
+ <img src="dandadan-turbo-granny-cat-and-pet-kitten-walking-dandadan-turbo-granny-walking-with-pet-kitten.gif"/>
 </div>
 
 <h1 align="center"> 🌐 A little about me.</h1>
