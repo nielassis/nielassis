@@ -32,7 +32,7 @@
   <a href="mailto:nielvitorba@gmai.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/daniel-assis-09a295321/" target="_blank">
+  <a href="https://www.linkedin.com/in/nielassis" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://nielassis.netlify.app" target="_blank">
