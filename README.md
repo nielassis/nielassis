@@ -2,22 +2,15 @@
  <img src="https://images3.alphacoders.com/874/874252.jpg" />
 </div>
 
-<h1 align="center"> 🌐 Um pouco sobre mim. </h1>
+<h1 align="center"> 🌐 A little about me.</h1>
 
-<h4>Sou um entusiasta de tecnologia, apaixonado por resolver problemas. Estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades. Adoro colaborar em projetos de código aberto e contribuir para a comunidade de desenvolvimento. Seja bem-vindo ao meu perfil do GitHub, onde você encontrará projetos que refletem minha curiosidade e dedicação ao desenvolvimento de software.</h4>
+<h4>I'm a technology enthusiast, passionate about solving problems. I am always looking to learn new technologies and improve my skills. I love collaborating on open source projects and contributing to the development community. Welcome to my GitHub profile, where you'll find projects that reflect my curiosity and dedication to software development.</h4>
 
- 
-
-
-
-
- 
- 
-<h1 align="center">⚒️ Linguagens | Frameworks | Ferramentas ⚒️</h1>
+<h1 align="center">⚒️ Languages | Frameworks | Tools ⚒️</h1>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,ts,nodejs,express,php" />
-    <img src="https://skillicons.dev/icons?i=nextjs,vuejs,react,vite,tailwind,html,css" /><br>
+    <img src="https://skillicons.dev/icons?i=javascript,ts,nodejs" />
+    <img src="https://skillicons.dev/icons?i=nextjs,vuejs,react,vite," /><br>
     <img src="https://skillicons.dev/icons?i=postgres,docker,git,vscode" /><br>
 </div>
 
@@ -25,7 +18,7 @@
 
 
 <div align="center"> 
- <h1>Conecte-se comigo!</h1>
+ <h1>Connect with me!</h1>
    <a href="https://wa.link/osr8cz">
    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" /> 
   </a>
@@ -36,7 +29,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://nielassis.netlify.app" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
   </a>
 </div>
 
