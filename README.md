@@ -46,5 +46,5 @@
 </div>
 
 <div align="right">
- <img src="dandadan-turbo-granny-cat-and-pet-kitten-walking-dandadan-turbo-granny-walking-with-pet-kitten.gif"/>
+ <img src="dandadan-turbo-granny-cat-and-pet-kitten-walking-dandadan-turbo-granny-walking-with-pet-kitten-ezgif.com-gif-maker.gif"/>
 </div>
