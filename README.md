@@ -1,5 +1,5 @@
 <div align="center">
- <img src="https://images3.alphacoders.com/874/874252.jpg" />
+ <div class="tenor-gif-embed" data-postid="6486645270300003400" data-share-method="host" data-aspect-ratio="0.908333" data-width="100%"><a href="https://tenor.com/view/dandadan-turbo-granny-cat-and-pet-kitten-walking-dandadan-turbo-granny-walking-with-pet-kitten-dandadan-maneki-neko-turbo-granny-dandadan-dandadan-anime-gif-6486645270300003400">Dandadan Turbo Granny Cat And Pet Kitten Walking Dandadan Turbo Granny Walking With Pet Kitten GIF</a>from <a href="https://tenor.com/search/dandadan+turbo+granny+cat+and+pet+kitten+walking-gifs">Dandadan Turbo Granny Cat And Pet Kitten Walking GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 </div>
 
 <h1 align="center"> 🌐 A little about me.</h1>
@@ -47,9 +47,6 @@
       </td>
     </tr>
   </table>
-
-  ---
-
 </div>
 
 
