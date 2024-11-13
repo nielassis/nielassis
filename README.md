@@ -36,7 +36,7 @@
   <table>
     <tr>
       <td>
-        <img src="https://streak-stats.demolab.com/?user=nielassis&theme=dark" alt="GitHub Streak Stats"/>
+     [![GitHub Streak](https://streak-stats.demolab.com?user=nielassis&theme=dark)](https://git.io/streak-stats)
       </td>
       <td>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nielassis&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="GitHub Top Languages"/>
